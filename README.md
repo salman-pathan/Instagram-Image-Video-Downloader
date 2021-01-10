@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/salman-pathan/Instagram-Image-Video-Downloader.svg?branch=main)](https://travis-ci.com/salman-pathan/Instagram-Image-Video-Downloader)
 # Instagram Image/Video downloader
 Instagram Image/Video downloader is a GoLang CLI application to download Instagram Image or Video
 
